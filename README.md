@@ -42,6 +42,13 @@
 - An app called Remote Desktop Connection should appear this is where we paste in our IP
 ![image](https://github.com/IsaiahLawrence/CreateVmAzure/assets/152194351/4cb67ea5-0ccf-4104-9a2a-a733007a3f2d)
 
+- Connect and you may be prompted to sign in under your actual user we don't want to do that, it will not work
+- Under that you'll see more choices click that, then use a different account
+- Enter your username and password you made when creating the virtual machine
+- If done correctly you'll see this
+![image](https://github.com/IsaiahLawrence/CreateVmAzure/assets/152194351/1088b8a2-e82a-4011-b64f-93b4bf8f9c3e)
+
+
 
 
 
