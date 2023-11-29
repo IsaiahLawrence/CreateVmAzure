@@ -48,6 +48,16 @@
 - If done correctly you'll see this
 ![image](https://github.com/IsaiahLawrence/CreateVmAzure/assets/152194351/1088b8a2-e82a-4011-b64f-93b4bf8f9c3e)
 
+-Choose yes, a new screen will appear and it'll have the IP address you copied up top
+
+- Congrats! You just created a VM and RDP into it. After going through the privacy settings you should see this
+![image](https://github.com/IsaiahLawrence/CreateVmAzure/assets/152194351/9c7299c5-0c7f-4d2e-a5b6-f16cbf261fa5)
+
+
+- Now you're on a computer on your computer! You can surf the web, create files, watch videos.
+
+- That's how you create a VM in Azure and RDP into it.
+
 
 
 
